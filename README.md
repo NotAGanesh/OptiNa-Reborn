@@ -21,7 +21,7 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
 ✔️ Model Gap Fix (Non OptiFine Feature)<br>**
 
-### Differences Legacy & Reborn Version
+### Differences Between Legacy & Reborn Version
 
 |               **Features**               | **Legacy** | **Reborn** |
 |----------------------------|--------|--------|
