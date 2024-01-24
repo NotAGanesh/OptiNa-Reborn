@@ -29,14 +29,15 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 | compatible with other mods | ✓      | ✓      |
 | Potato PC Settings         | ✖       |  ✓      |
 | Updates can Receive        | ✖       |  ✓      |
-| Classic Zoom Style (OptiFine Style Zoom) | ✓      | ✖      |
+| Classic Zoom Style (OptiFine Style Zoom) | ✓      | ✓      |
 
 
 
 
-## Performance
-**Best Modpack for Potato PC**
+## 🔥Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
+**Best Modpack for Potato PC**
+
 
 ### Statics
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
