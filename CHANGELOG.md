@@ -1,0 +1,7 @@
+# Change-Logs
+- [Resourcify (Mod)](https://modrinth.com/mod/resourcify) By **DeDiamondPro** Updated!
+- **Configs Files** Updated!
+- [ThreadTweak (Mod)](https://modrinth.com/mod/threadtweak) By **getchoo** added!
+- [Noisium (Mod)](https://modrinth.com/mod/noisium) By **Steveplays** added!
+- [No Chat Reports (Mod)] By **Aizistral** added!
+- Fabric Loader **v0.15.3 to v1.15.6** Updated!
