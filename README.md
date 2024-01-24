@@ -36,7 +36,7 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 
 ## Performance
 **Best Modpack for Potato PC**
-![High Performance](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/high_performance_banner_optina_team.png?raw=true)
+![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 
 ### Statics
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
