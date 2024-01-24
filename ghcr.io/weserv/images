@@ -1,0 +1,1 @@
+docker run -d -p 8080:80 --shm-size=1gb --name=weserv ghcr.io/weserv/images:5.x
