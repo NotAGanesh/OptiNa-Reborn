@@ -3,5 +3,5 @@
 - **Configs Files** Updated!
 - [ThreadTweak (Mod)](https://modrinth.com/mod/threadtweak) By **getchoo** added!
 - [Noisium (Mod)](https://modrinth.com/mod/noisium) By **Steveplays** added!
-- [No Chat Reports (Mod)] By **Aizistral** added!
+- [No Chat Reports (Mod)](https://modrinth.com/mod/no-chat-reports) By **Aizistral** added!
 - Fabric Loader **v0.15.3 to v1.15.6** Updated!
