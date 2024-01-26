@@ -1,7 +1,5 @@
 # Change-Logs
-- [Resourcify (Mod)](https://modrinth.com/mod/resourcify) By **DeDiamondPro** Updated!
-- **Configs Files** Updated!
-- [ThreadTweak (Mod)](https://modrinth.com/mod/threadtweak) By **getchoo** added!
-- [Noisium (Mod)](https://modrinth.com/mod/noisium) By **Steveplays** added!
-- [No Chat Reports (Mod)](https://modrinth.com/mod/no-chat-reports) By **Aizistral** added!
-- Fabric Loader **v0.15.3 to v1.15.6** Updated!
+- Modrinth Profile Updated!
+- Bedrock RTX Parity Added!/[Complementary Shaders(Shader)](https://www.complementary.dev/) RTX Update
+- OptiNa Resource Pack Bug fixed! (World Joining Screen Broken)
+**Basically This is Ray Tracing Update**
