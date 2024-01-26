@@ -35,10 +35,19 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 
 
 
+## 🔸Ray Tracing (Bedrock RTX)
+![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
+Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower
+
+
 
 ## 🔥Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
+
+
+
+
 
 
 ### Statics
@@ -55,6 +64,15 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 
 ### 📥 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
+
+
+
+
+
+
+
+
+
 
 <details>
 <summary>🔬Mod-List/Resource Pack-List/Shader Pack-List</summary>
