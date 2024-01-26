@@ -37,7 +37,11 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 
 ## 🔸Ray Tracing (Bedrock RTX)
 ![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
-Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower
+How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
+Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
+Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
+
+
 
 
 
@@ -57,10 +61,13 @@ Ray tracing  brings a brand new experience to **Minecraft! Experience creator-bu
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
 
 ### ☵ Available at
-![Modrinth Logo](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%402%2Fassets%2Fcozy%2Favailable%2Fmodrinth_vector.svg&n=-1)
-![Github Logo](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%402%2Fassets%2Fcozy%2Favailable%2Fgithub_vector.svg&n=-1) <br>
-![Loader](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%402%2Fassets%2Fcompact%2Fsupported%2Ffabric_vector.svg&n=-1)
-
+![Modrinth Logo](https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge)
+![Github Logo](https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge)
+![Gitlab](https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge)
+<br>
+![Windows](https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge)
+![MacOS](https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge)
 
 ### 📥 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
