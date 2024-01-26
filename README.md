@@ -31,6 +31,7 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 | Updates can Receive        | ✖       |  ✓      |
 | Classic Zoom Style (OptiFine Style Zoom) | ✓      | ✓      |
 | Fancy Zooom Style (Zoomify Mod)          | ✖          | ✓          |
+| Ray Tracing | ✖          | ✓          |
 
 
 
