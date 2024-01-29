@@ -1,0 +1,11 @@
+hideType = "RELOADING"
+rgbProgress = false
+forceClose = false
+miniRender = true
+type = "PROGRESS"
+reloadText = "Edit in config!"
+resetResources = false
+reInitScreen = true
+earlyPackStatusSend = true
+animationSpeed = 1000.0
+aprilFool = "ON_APRIL"
