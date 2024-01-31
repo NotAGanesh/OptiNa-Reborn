@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -23,7 +23,7 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-fov:1.0
+fov:0.375
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -39,7 +39,7 @@ entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
-graphicsMode:1
+graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2

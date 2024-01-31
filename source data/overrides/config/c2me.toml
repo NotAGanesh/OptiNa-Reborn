@@ -26,6 +26,8 @@ globalExecutorParallelism = "default"
 
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
+		# Set to false for the following reasons: 
+		# Incompatible with bobby@5.0.3 (*) (defined in c2me) 
 		enabled = false
 		# (Default: 32) Max render distance allowed in game options
 		maxViewDistance = "default"
