@@ -6,20 +6,20 @@
 The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
 ### ⏺OptiFine parity
-**✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
-✔️ FPS Boost <br>
-✔️ FPS control <br>
-✔️ Configurable Details <br>
-✔️ Configurable animations <br>
-✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
-✔️ Performance: VSync <br>
-✔️ Custom Models <br>
-✔️ CIT models <br>
-✔️ Cape <br>
-✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
-✔️ Zoom <br>
-✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
-✔️ Model Gap Fix (Non OptiFine Feature)<br>**
+- ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
+- ✔️ FPS Boost <br>
+- ✔️ FPS control <br>
+- ✔️ Configurable Details <br>
+- ✔️ Configurable animations <br>
+- ✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
+- ✔️ Performance: VSync <br>
+- ✔️ Custom Models <br>
+- ✔️ CIT models <br>
+- ✔️ Cape <br>
+- ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
+- ✔️ Zoom <br>
+- ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
+- ✔️ Model Gap Fix (Non OptiFine Feature)<br>
 
 ### Differences Between Legacy & Reborn Version
 
@@ -30,7 +30,7 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 | Potato PC Settings         | ✖       |  ✓      |
 | Updates can Receive        | ✖       |  ✓      |
 | Classic Zoom Style (OptiFine Style Zoom) | ✓      | ✓      |
-| Fancy Zooom Style (Zoomify Mod)          | ✖          | ✓          |
+| Fancy Zoom Style (Zoomify Mod)          | ✖          | ✓          |
 | Ray Tracing | ✖          | ✓          |
 
 
@@ -61,13 +61,13 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
 
 ### ☵ Available at
-![Modrinth Logo](https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge)
-![Github Logo](https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge)
-![Gitlab](https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge)
+<a href="https://modrinth.com/modpack/optina-reborn" rel="OptiNa Reborn"><img src="https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge" alt="Modrinth" /></a> 
+<a href="https://github.com/NotAGanesh/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
+<a href="https://gitlab.com/optina-team/OptiNa-Reborn" rel="OptiNa Reborn Gitlab"><img src="https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge" alt="Gitlab" /></a> 
 <br>
-![Windows](https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge)
-![MacOS](https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge)
+<a href="https://windows.com/" rel="Microsoft Windows"><img src="https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows" /></a> 
+<a href="https://www.linux.org/" rel="Linux"><img src="https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" /></a> 
+<a href="https://www.apple.com/in/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
 
 ### 📥 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
@@ -157,3 +157,5 @@ Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optim
 
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
 [👴Legacy Version](https://modrinth.com/modpack/optina-fabric)
+
+Hope you enjoy this modpack!
