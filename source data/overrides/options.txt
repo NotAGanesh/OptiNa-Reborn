@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -33,19 +33,19 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:8
+renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
-graphicsMode:1
+graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/OptiNa Resource Pack.zip"]
-incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default","file/SodiumTranslations.zip","file/OptiNa Resource Pack.zip"]
+incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","rrls","spark","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default"]
 lastServer:0
 lang:en_us
 soundDevice:""

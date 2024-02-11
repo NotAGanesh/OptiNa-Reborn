@@ -8,8 +8,8 @@ version = 3
 #                (cpus / 1.2 - 2)
 #            ),
 #            if( is_j9vm,
-#                ( ( mem_gb - (if(is_client, 0.6, 0.2)) ) / 0.5 ),
-#                ( ( mem_gb - (if(is_client, 1.2, 0.6)) ) / 1.2 )
+#                ( ( mem_gb - (if(is_client, 0.6, 0.2)) ) / 0.4 ),
+#                ( ( mem_gb - (if(is_client, 1.2, 0.6)) ) / 0.6 )
 #            )
 #        ) - if(is_client, 2, 0)
 #    )
@@ -27,7 +27,7 @@ globalExecutorParallelism = "default"
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		# Set to false for the following reasons: 
-		# Incompatible with bobby@5.0.3 (*) (defined in c2me) 
+		# Incompatible with bobby@5.1.0+mc1.20.4 (*) (defined in c2me) 
 		enabled = false
 		# (Default: 32) Max render distance allowed in game options
 		maxViewDistance = "default"
@@ -44,6 +44,17 @@ globalExecutorParallelism = "default"
 	ensureChunkCorrectness = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
+	# (Default: 2048) Maximum view distance for no-tick view distance 
+	# 
+	# This allows you to specify the maximum view distance that no-tick view distance can support. 
+	# The maximum supported is 1073741823 and the minimum that make sense is 32, 
+	# This option is purely to save memory, as it needs to reserve memory for the maximum view distance 
+	# 
+	# Note: on the client side, `clientSideConfig.modifyMaxVDConfig.maxViewDistance` should also 
+	# be increased to actually expose the view distance in video settings 
+	# 
+	# 
+	maxViewDistance = "default"
 
 [ioSystem]
 	# (Default: true) Whether to use async chunk loading & unloading
@@ -73,7 +84,7 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@11.0.11 (*) (defined in c2me) 
+	# Incompatible with architectury@11.0.12 (*) (defined in c2me) 
 	gcFreeChunkSerializer = true
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
