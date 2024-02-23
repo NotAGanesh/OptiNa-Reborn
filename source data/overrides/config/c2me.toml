@@ -25,6 +25,14 @@ globalExecutorParallelism = "default"
 [clientSideConfig]
 
 	[clientSideConfig.modifyMaxVDConfig]
+		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
+		# This allows requesting render distances higher than 127 chunks from the server
+		# 
+		# Requires Fabric API (currently available)
+		# 
+		# Note: The server must advertise support this protocol for this to work
+		# 
+		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
 		# Set to false for the following reasons: 
 		# Incompatible with bobby@5.1.0+mc1.20.4 (*) (defined in c2me) 
@@ -42,6 +50,12 @@ globalExecutorParallelism = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
+	# (Default: true) Enable server-side support for extended render distance protocol (c2me:ext_render_distance_v1)
+	# This allows requesting render distances higher than 127 chunks from the server
+	# 
+	# Requires Fabric API (currently available)
+	# 
+	enableExtRenderDistanceProtocol = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 	# (Default: 2048) Maximum view distance for no-tick view distance 
