@@ -1,5 +1,4 @@
 # Updated Content!
-- Mods are Updated!
-- Resource Packs Updated!
-- Shader Packs Updated!
+- [Dynamic Lights](https://modrinth.com/mod/dynamic-lights) (Mod) By **Tschipcraft** Replaced With [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Mod) By **LambdAurora**
+- modpack profile updated!
  
