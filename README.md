@@ -67,7 +67,7 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 <br>
 <a href="https://windows.com/" rel="Microsoft Windows"><img src="https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows" /></a> 
 <a href="https://www.linux.org/" rel="Linux"><img src="https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" /></a> 
-<a href="https://www.apple.com/in/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
+<a href="https://www.apple.com/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
 
 ### 📥 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
