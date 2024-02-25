@@ -1,5 +1,4 @@
-# Hotfix!
-- [Dynamic Lights](https://modrinth.com/mod/dynamic-lights) (Mod) By **Tschipcraft** Replaced With [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Mod) By **LambdAurora**
+# Hotfix Content!
+- Fabric Loader Updated **(0.15.6 to 0.15.7)**
 - modpack profile updated!
-
-Special Thanks to [TheGlitchedRobin](https://www.planetminecraft.com/member/theglitchedrobin/) for your Feedback!
+ 
