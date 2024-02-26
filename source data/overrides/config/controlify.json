@@ -332,12 +332,6 @@
         "fabric-key-binding-api-v1:key.antighost.reveal": {
           "type": "empty"
         },
-        "fabric-key-binding-api-v1:key.dynamic_fps.toggle_forced": {
-          "type": "empty"
-        },
-        "fabric-key-binding-api-v1:key.dynamic_fps.toggle_disabled": {
-          "type": "empty"
-        },
         "fabric-key-binding-api-v1:key.entityculling.toggle": {
           "type": "empty"
         },
