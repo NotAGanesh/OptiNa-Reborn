@@ -150,3 +150,6 @@ Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optim
 
 ### About the Creator
 > This modpack created by **NotAGanesh** and organized by Mods Developers
+
+###  Licence
+[GNU General Public License V3](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/LICENSE)
