@@ -2,7 +2,7 @@
 <br>
 
 
-## ℹ️ Information
+## ℹ️ Welcome To Wiki of OptiNa Modpack
 The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)[(Fabric)](https://fabricmc.net/) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
 ### ⏺OptiFine parity
