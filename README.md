@@ -7,7 +7,25 @@
 
 <hr>
 
+### Statics
+![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
+![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
+![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
 
+### ☵ Available at
+<a href="https://modrinth.com/modpack/optina-reborn" rel="OptiNa Reborn"><img src="https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge" alt="Modrinth" /></a> 
+<a href="https://github.com/NotAGanesh/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
+<a href="https://gitlab.com/optina-team/OptiNa-Reborn" rel="OptiNa Reborn Gitlab"><img src="https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge" alt="Gitlab" /></a> 
+<br>
+<a href="https://windows.com/" rel="Microsoft Windows"><img src="https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows" /></a> 
+<a href="https://www.linux.org/" rel="Linux"><img src="https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" /></a> 
+<a href="https://www.apple.com/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
+<br>
+>**Note:this is a Modrinth exclusive modpack this modpack not available website like curseforge**
+
+### 📥 Installation guide
+Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
 
 ### 📌 OptiFine parity
 > - ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
@@ -39,52 +57,12 @@
 
 
 
-## 🔸Ray Tracing (Bedrock RTX)
-![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
-How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
-Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
-Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
-
-
 
 
 
 ## 🔥Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
-
-
-
-
-
-
-### Statics
-![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
-![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
-![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
-
-### ☵ Available at
-<a href="https://modrinth.com/modpack/optina-reborn" rel="OptiNa Reborn"><img src="https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge" alt="Modrinth" /></a> 
-<a href="https://github.com/NotAGanesh/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
-<a href="https://gitlab.com/optina-team/OptiNa-Reborn" rel="OptiNa Reborn Gitlab"><img src="https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge" alt="Gitlab" /></a> 
-<br>
-<a href="https://windows.com/" rel="Microsoft Windows"><img src="https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows" /></a> 
-<a href="https://www.linux.org/" rel="Linux"><img src="https://img.shields.io/badge/-linux-35484E?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" /></a> 
-<a href="https://www.apple.com/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
-<br>
-**Note:this is a Modrinth exclusive modpack this modpack not available website like curseforge**
-
-### 📥 Installation guide
-Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
-
-
-
-
-
-
-
-
 
 
 <details>
