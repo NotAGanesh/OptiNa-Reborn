@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -23,7 +23,7 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-fov:1.0
+fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -33,7 +33,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:12
+renderDistance:8
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -46,7 +46,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default","file/SodiumTranslations.zip","file/OptiNa Resource Pack.zip"]
 incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","rrls","spark","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default"]
-lastServer:0
+lastServer:herobrine.org
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -120,10 +120,10 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.fabrishot.screenshot:key.keyboard.f9
-key_key.antighost.reveal:key.keyboard.g
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.fabrishot.screenshot:key.keyboard.f9
+key_key.antighost.reveal:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12

@@ -98,7 +98,7 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@11.0.12 (*) (defined in c2me) 
+	# Incompatible with architectury@11.1.13 (*) (defined in c2me) 
 	gcFreeChunkSerializer = true
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
