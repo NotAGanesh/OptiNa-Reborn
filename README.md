@@ -162,4 +162,5 @@ Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optim
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
 [👴Legacy Version](https://modrinth.com/modpack/optina-fabric)
 
-**_Hope you enjoy this modpack!_**
+### About the Creator
+> This modpack created by **NotAGanesh** and organized by Mods Developers
