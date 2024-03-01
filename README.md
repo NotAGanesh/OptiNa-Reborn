@@ -2,24 +2,24 @@
 <br>
 
 
-## 📖 Welcome To Wiki of OptiNa Modpack
+## 📖 ***Welcome To Wiki of OptiNa Modpack!***
 > The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)[(Fabric)](https://fabricmc.net/) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
-### 🔳 OptiFine parity
-> - ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91)~~ <br>
-> - ✔️ FPS Boost <br>
-> - ✔️ FPS control <br>
-> - ✔️ Configurable Details <br>
-> - ✔️ Configurable animations <br>
-> - ✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
-> - ✔️ Performance: VSync <br>
-> - ✔️ Custom Models <br>
-> - ✔️ CIT models <br>
-> - ✔️ Cape <br>
-> - ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
-> - ✔️ Zoom <br>
-> - ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
-> - ✔️ Model Gap Fix (Non OptiFine Feature)<br>
+### ⏺OptiFine parity
+- ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
+- ✔️ FPS Boost <br>
+- ✔️ FPS control <br>
+- ✔️ Configurable Details <br>
+- ✔️ Configurable animations <br>
+- ✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
+- ✔️ Performance: VSync <br>
+- ✔️ Custom Models <br>
+- ✔️ CIT models <br>
+- ✔️ Cape <br>
+- ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
+- ✔️ Zoom <br>
+- ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
+- ✔️ Model Gap Fix (Non OptiFine Feature)<br>
 
 ### Differences Between Legacy & Reborn Version
 
