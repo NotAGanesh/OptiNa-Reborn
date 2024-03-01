@@ -25,7 +25,7 @@
 >**Note:this is a Modrinth exclusive modpack this modpack not available website like curseforge**
 
 ### 📥 Installation guide
-Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
+Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "**OptiNa Reborn**" click on *Install** you're done!*
 
 ### 📌 OptiFine parity
 > - ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
