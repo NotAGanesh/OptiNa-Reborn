@@ -16,7 +16,6 @@
 <br>
 </div>
 
-
 ## ℹ️ Information
 The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
@@ -88,11 +87,6 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 ### 📥 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
-
-
-
-
-
 
 
 
@@ -171,7 +165,8 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 </details>
 <details>
 <summary>©️ Credits</summary>
-Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files
+Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files, <br>
+readme design inspired by adrenaline modpack  
 </details>
 
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
