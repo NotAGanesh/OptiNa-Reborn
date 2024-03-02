@@ -61,20 +61,20 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 
 
 
-## 🔸Ray Tracing (Bedrock RTX)
+## 🔸 Ray Tracing (Bedrock RTX)
 ![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
 How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
 Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
 Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 
-## 🔥Performance
+## 🔥 Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
 
 
 <details>
-<summary>🔬Mod-List/Resource Pack-List/Shader Pack-List</summary>
+<summary>🔬 Mod-List/Resource Pack-List/Shader Pack-List</summary>
 <a href="https://modrinth.com/mod/sodium" rel="nofollow">Sodium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/lithium" rel="nofollow">Lithium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/reeses-sodium-options" rel="nofollow">Reese's Sodium Options (Mod) By <strong>FlashyReese</strong></a><br>
