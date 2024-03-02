@@ -1,10 +1,22 @@
 ![Banner](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/OptiNa%20Reborn_Modrinth_Homepage.png?raw=true)
 <br>
-
+<div align="center">
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on OptiNa Reborn
     <br />
-    
+    <br />
+    <a href="https://github.com/NotAGanesh/OptiNa-Reborn/wiki">Explore the wiki</a>
+    ·
+    <a href="https://github.com/NotAGanesh/OptiNa-Reborn/issues">Report Bugs</a>
+  </p>
+
+  <center><a href="https://modrinth.com/modpack/optina-reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a></center>
+  <center><a href="https://github.com/NotAGanesh/OptiNa-Reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="Available on Github"></a></center
+
+<br>
+</div>
+
+
 ## ℹ️ Information
 The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
