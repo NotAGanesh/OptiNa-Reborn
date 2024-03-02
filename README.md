@@ -7,7 +7,7 @@
 
 ### OptiNa Creation Date
 OptiNa Reborn 21<sup>st</sup> January 2024 <br>
-OptiNa Legacy 6<sup>th</sup> January 2023
+OptiNa Legacy 6<sup>th</sup> January 2024
 
 <hr>
 
