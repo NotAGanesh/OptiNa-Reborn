@@ -1,3 +1,6 @@
+(Legacy wiki)
+
+
 ![Banner](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/OptiNa%20Reborn_Modrinth_Homepage.png?raw=true)
 <br>
 
