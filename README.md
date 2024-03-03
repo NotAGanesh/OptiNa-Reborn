@@ -37,7 +37,7 @@ The modpack aims to recreates the features of the popular **OptiFine** mod in Fa
 
 ### Differences Between Legacy & Reborn Version
 
-|               **Features**               | **Legacy** | **Reborn** |
+|               _**Features**_               | _**Legacy**_ | _**Reborn**_ |
 |----------------------------|--------|--------|
 | Configs Files improved     | ✖      | ✓      |
 | compatible with other mods | ✓      | ✓      |
