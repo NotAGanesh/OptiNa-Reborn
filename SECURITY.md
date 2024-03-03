@@ -11,7 +11,7 @@ currently being supported with security updates.
 | 1.0.1 - Release  | :white_check_mark: |
 | 0.0.9 - Beta   | :white_check_mark: |
 | < 0.9 - Beta   | :x:                |
-
+| OptiNa Legacy (All Versions)  | :x:                |
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
