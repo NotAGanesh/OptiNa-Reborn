@@ -165,8 +165,8 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 </details>
 <details>
 <summary>©️ Credits</summary>
-Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files, <br>
-readme design inspired by adrenaline modpack  
+Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files <br>
+Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Additive (Modpack)</a><br>  readme inspired by this modpack
 </details>
 
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
