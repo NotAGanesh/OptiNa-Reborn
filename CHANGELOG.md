@@ -1,5 +1,7 @@
-# Hotfix
- - [**Cube Without Borders (Mod**)](https://modrinth.com/mod/cubes-without-borders) By **Kir_Antipov** **Added!**
+![Hotfix](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/hotfix_changelog_banner.png?raw=true)
+<hr>
+
+ - [**Cube Without Borders (Mod**)](https://modrinth.com/mod/cubes-without-borders) **Added!**
    - Borderless Screen mode supported!
  - ***config edited!***
    - config compressed
