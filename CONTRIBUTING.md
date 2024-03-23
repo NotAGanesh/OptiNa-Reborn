@@ -37,7 +37,7 @@
 <a href="https://modrinth.com/mod/nvidium" rel="nofollow">Nvidium (Mod) By <strong>cortex</strong></a><br>
 <a href="https://modrinth.com/mod/c2me-fabric" rel="nofollow">Concurrent Chunk Management Engine (Fabric) (Mod) By <strong>ishland</strong></a><br>
 <a href="https://modrinth.com/resourcepack/translations-for-sodium" rel="nofollow">Translations for Sodium (Resource Pack) By <strong>robotkoer</strong></a><br>
-<a href="https://modrinth.com/datapack/dynamic-lights" rel="nofollow">Dynamic Lights (Mod/Datapack) By <strong>Tschipcraft</strong></a><br>
+<a href="https://modrinth.com/mod/lambdynamiclights" rel="nofollow">LambDynamicLights (Mod) By <strong>LambdAurora</strong></a><br>
 <a href="https://modrinth.com/mod/modernfix" rel="nofollow">ModernFix (Mod) By <strong>embeddedt</strong></a><br>
 <a href="https://modrinth.com/mod/morechathistory" rel="nofollow">More Chat History (Mod) By <strong>JackFred2</strong></a><br>
 <a href="https://modrinth.com/mod/entity-model-features" rel="nofollow">[EMF] Entity Model Features (Mod) By <strong>Traben</strong></a><br>
@@ -63,3 +63,8 @@
 <a href="https://modrinth.com/mod/noisium" rel="nofollow">Noisium (Mod) By <strong>Steveplays</strong></a><br>
 <a href="https://modrinth.com/mod/threadtweak" rel="nofollow">ThreadTweak (Mod) By <strong>getchoo</strong></a><br>
 <a href="https://modrinth.com/mod/no-chat-reports" rel="nofollow">No Chat Reports (Mod) By <strong>Aizistral</strong></a><br>    
+<a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>       
+<a href="https://modrinth.com/shader/solas-shader" rel="nofollow">Solas Shader (Shader) By <strong>septonious</strong></a><br>
+<a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>
+<a href="https://modrinth.com/mod/badoptimizations" rel="nofollow">BadOptimizations (Mod) By <strong>thosea</strong></a><br>
+<a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br> 
