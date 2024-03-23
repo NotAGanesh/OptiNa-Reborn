@@ -1,5 +1,10 @@
-# Summer Update
-- OptiNa Reborn Cape Support Added! [Check Out This Article](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape)
-- added! [BadOptimizations (Mod)](https://modrinth.com/mod/badoptimizations/) By **ItsThosea**
-- Config Files enchanced!
-- modpack profile updated!
+# Hotfix
+ - [**Cube Without Borders (Mod**)](https://modrinth.com/mod/cubes-without-borders) By **Kir_Antipov** **Added!**
+   - Borderless Screen mode supported!
+ - ***config edited!***
+   - config compressed
+ - ***options updated!***
+   - chunks set to (12) potato pc change
+ - ***modpack profile updated! (technical changes)***
+     - 1.0.2 to 1.0.3 changed
+     - cube without borders (mod) code implemented
