@@ -172,8 +172,10 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 <a href="https://modrinth.com/mod/no-chat-reports" rel="nofollow">No Chat Reports (Mod) By <strong>Aizistral</strong></a><br>    
 <a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>   
 <a href="https://modrinth.com/shader/solas-shader" rel="nofollow">Solas Shader (Shader) By <strong>septonious</strong></a><br>
-<a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>     
+<a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>
+<a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br>
 </details>
+
 <details>
 <summary>©️ Credits</summary>
 Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files <br>
