@@ -344,6 +344,9 @@
         "fabric-key-binding-api-v1:key.modmenu.open_menu": {
           "type": "empty"
         },
+        "fabric-key-binding-api-v1:key.optigui.inspect": {
+          "type": "empty"
+        },
         "fabric-key-binding-api-v1:key.replaymod.playeroverview": {
           "type": "empty"
         },
