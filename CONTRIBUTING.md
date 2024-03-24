@@ -63,8 +63,10 @@
 <a href="https://modrinth.com/mod/noisium" rel="nofollow">Noisium (Mod) By <strong>Steveplays</strong></a><br>
 <a href="https://modrinth.com/mod/threadtweak" rel="nofollow">ThreadTweak (Mod) By <strong>getchoo</strong></a><br>
 <a href="https://modrinth.com/mod/no-chat-reports" rel="nofollow">No Chat Reports (Mod) By <strong>Aizistral</strong></a><br>    
-<a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>       
+<a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>   
 <a href="https://modrinth.com/shader/solas-shader" rel="nofollow">Solas Shader (Shader) By <strong>septonious</strong></a><br>
 <a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>
 <a href="https://modrinth.com/mod/badoptimizations" rel="nofollow">BadOptimizations (Mod) By <strong>thosea</strong></a><br>
-<a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br> 
+<a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br>
+<a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>  
+
