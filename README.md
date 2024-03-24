@@ -94,7 +94,6 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 
 <details>
 <summary>🔬Mod-List/Resource Pack-List/Shader Pack-List</summary>
-
 <a href="https://modrinth.com/mod/sodium" rel="nofollow">Sodium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/lithium" rel="nofollow">Lithium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/reeses-sodium-options" rel="nofollow">Reese's Sodium Options (Mod) By <strong>FlashyReese</strong></a><br>
@@ -159,12 +158,13 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 <a href="https://modrinth.com/mod/sodium-shadowy-path-blocks" rel="nofollow">Sodium Shadowy Path Blocks (Mod) By <strong>Rynnavinx</strong></a><br>
 <a href="https://modrinth.com/mod/noisium" rel="nofollow">Noisium (Mod) By <strong>Steveplays</strong></a><br>
 <a href="https://modrinth.com/mod/threadtweak" rel="nofollow">ThreadTweak (Mod) By <strong>getchoo</strong></a><br>
-<a href="https://modrinth.com/mod/no-chat-reports" rel="nofollow">No Chat Reports (Mod) By <strong>Aizistral</strong></a><br>      
+<a href="https://modrinth.com/mod/no-chat-reports" rel="nofollow">No Chat Reports (Mod) By <strong>Aizistral</strong></a><br>    
+<a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>   
 <a href="https://modrinth.com/shader/solas-shader" rel="nofollow">Solas Shader (Shader) By <strong>septonious</strong></a><br>
 <a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>
 <a href="https://modrinth.com/mod/badoptimizations" rel="nofollow">BadOptimizations (Mod) By <strong>thosea</strong></a><br>
 <a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br>
-<a href="https://modrinth.com/mod/bobby" rel="nofollow">Bobby (Mod) By <strong>Johni0702</strong></a><br>     
+<a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>  
 </details>
 
 <details>
