@@ -12,8 +12,7 @@
 
   <center><a href="https://modrinth.com/modpack/optina-reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a></center>
   <center><a href="https://github.com/NotAGanesh/OptiNa-Reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="Available on Github"></a></center>
-  <center><a href="https://gitlab.com/optina-team/OptiNa-Reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/gitlab_vector.svg" alt="Available on Github"></a></center> <br>
-  <center><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="fire gif"></center>
+  <center><a href="https://gitlab.com/optina-team/OptiNa-Reborn"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/gitlab_vector.svg" alt="Available on Github"></a></center> 
 <br>
 </div>
   
